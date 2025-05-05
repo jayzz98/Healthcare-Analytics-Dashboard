@@ -1,3 +1,8 @@
+
+![Healthcare_Dashboard_1](https://github.com/user-attachments/assets/5b9e923d-cf0f-46de-a0f9-98338fc7e22b)
+![Healthcare_Dashboard_2](https://github.com/user-attachments/assets/86ad84e7-4363-40de-bd3f-64c795c9f312)
+
+
 # Healthcare Data Analysis using Power BI
 
 
